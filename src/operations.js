@@ -1,5 +1,6 @@
 function verificaCep(cep) {
-  if (cep == '01001000') {
+  if (cep == '01001-000') {
+    
   }
 }
 
