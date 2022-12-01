@@ -15,7 +15,7 @@ function App() {
         <br />
         <label for="GetEmail" class="email">
           E-mail:
-          <input type="text" name="email" class="texto"/>
+          <input type="text" name="email" class="texto" />
         </label>
         <br />
         <label for="GetDataEntrega" class="data">
@@ -25,17 +25,17 @@ function App() {
         <br />
         <label for="GetCEP" class="cep">
           CEP:
-          <input type="text" name="cep" class="texto"/>
+          <input type="text" name="cep" class="texto" />
         </label>
         <br />
         <label for="GetEndereco">
           Número do Endereço:
-          <input type="text" name="endereco" class="texto"/>
+          <input type="text" name="endereco" class="texto" />
         </label>
         <br />
-        <label for="GetComplemento" >
+        <label for="GetComplemento">
           Complemento:
-          <input type="text" name="complemento" class="texto"/>
+          <input type="text" name="complemento" class="texto" />
         </label>
         <br />
         <button class="botao">Limpar</button>
