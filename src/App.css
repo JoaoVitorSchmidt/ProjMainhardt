@@ -1,0 +1,30 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.botao {
+  background-color: black;
+  color: white;
+  border-style: dashed;
+  margin-top: 10px;
+}
+
+.nome {
+  text-align: left;
+}
+
+.email {
+  text-align: left;
+  margin-left: -70px;
+}
+
+.cep {
+  text-align: left;
+  margin-left: -85px;
+}
+
+.texto {
+}
