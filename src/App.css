@@ -3,6 +3,8 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  align-items: baseline;
+  flex: auto;
 }
 
 .botao {
@@ -24,4 +26,8 @@
 .cep {
   text-align: left;
   margin-left: -85px;
+}
+
+.PosCEP {
+  visibility: inherit;
 }
